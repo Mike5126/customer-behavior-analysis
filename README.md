@@ -83,29 +83,4 @@ The SQL analysis (see [`sql/customer_behavior_eda.sql`](sql/customer_behavior_ed
 
 ---
 
-## Project Structure
-
-```
-customer-shopping-behavior-analysis/
-│
-├── data/
-│   └── customer_shopping_behavior.csv   
-│
-├── notebooks/
-│   └── customer-shopping-behavior.ipynb   
-│
-├── sql/
-│   └── customer_behavior_eda.sql       
-│
-├── dashboard/
-│   └── customer_behavior_dashboard.pbix   
-│
-├── images/
-│   └── dashboard_overview.png            
-│
-├── .env.example                          
-├── .gitignore
-├── requirements.txt
-└── README.md
-```
 
